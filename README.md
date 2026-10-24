@@ -1,4 +1,4 @@
-# TOMNY ALTHERACORE
+# TOMNY LABS
 
 **Independent Software Development · Intelligent Systems · Original Projects**
 
@@ -12,7 +12,7 @@ I'm Tomny, an independent developer building software products and exploring new
 
 ## Vision
 
-TOMNY ALTHERACORE is the technology brand I'm developing around my software projects and future intelligent systems.
+TOMNY LABS is the technology brand I'm developing around my software projects and future intelligent systems.
 
 My goal is to build original software and develop new technologies step by step.
 
